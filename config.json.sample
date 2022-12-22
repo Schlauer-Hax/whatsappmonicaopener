@@ -1,0 +1,6 @@
+{
+    "token": "yourMonicaToken",
+    "username": "your@email.com",
+    "password": "yourP4assw0rd",
+    "base_url": "https://monica.your.domain/"
+}

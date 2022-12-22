@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "devtools-client": "^0.1.10",
+    "puppeteer": "^19.4.1"
+  }
+}
